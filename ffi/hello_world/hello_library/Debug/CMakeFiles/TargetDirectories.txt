@@ -1,0 +1,4 @@
+D:/down/samples-master/ffi/hello_world/hello_library/build/CMakeFiles/hello_library.dir
+D:/down/samples-master/ffi/hello_world/hello_library/build/CMakeFiles/edit_cache.dir
+D:/down/samples-master/ffi/hello_world/hello_library/build/CMakeFiles/hello_test.dir
+D:/down/samples-master/ffi/hello_world/hello_library/build/CMakeFiles/rebuild_cache.dir
